@@ -24,6 +24,21 @@
       "value": "E",
       "isCompleted": false,
       "id": 5
+    },
+    {
+      "value": "A",
+      "isCompleted": false,
+      "id": 6
+    },
+    {
+      "value": "D",
+      "isCompleted": false,
+      "id": 7
+    },
+    {
+      "value": "T",
+      "isCompleted": false,
+      "id": 8
     }
   ]
 }
